@@ -2136,7 +2136,7 @@
     "@luma.gl/shadertools" "8.5.0-alpha.1"
     "@luma.gl/webgl" "8.5.0-alpha.1"
 
-"@luma.gl/engine@8.5.0-alpha.1":
+"@luma.gl/engine@8.5.0-alpha.1", "@luma.gl/engine@^8.5.0-alpha.1":
   version "8.5.0-alpha.1"
   resolved "https://registry.yarnpkg.com/@luma.gl/engine/-/engine-8.5.0-alpha.1.tgz#0928f0d4f3f4e414f87b4330b8f3b157018a4ca1"
   integrity sha512-LDZj5r4jU7+km+opuJf1fSwKPWCcu8EiMEFGQJ3eKAmBwxWzteJj8IM0Qg57AFpw5jgC3lXcFBQass4weXyuHw==
@@ -2182,7 +2182,7 @@
   dependencies:
     probe.gl "^3.2.1"
 
-"@luma.gl/webgl@8.5.0-alpha.1":
+"@luma.gl/webgl@8.5.0-alpha.1", "@luma.gl/webgl@^8.5.0-alpha.1":
   version "8.5.0-alpha.1"
   resolved "https://registry.yarnpkg.com/@luma.gl/webgl/-/webgl-8.5.0-alpha.1.tgz#6c88cb18dabfaf48e9d9a4627b4b3e3ac65c4f4b"
   integrity sha512-TnTQn+J+PWC+xiby8dX/eDFHKSTGquqGMYUvs9xz6dU5lBPwH4t5hrX8ZRPbFKCRoD6okc+F//EYAU8b79oeUw==
@@ -2382,7 +2382,7 @@
     "@math.gl/core" "3.4.2"
     gl-matrix "^3.0.0"
 
-"@math.gl/geospatial@^3.3.0":
+"@math.gl/geospatial@^3.3.0", "@math.gl/geospatial@^3.4.2":
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/@math.gl/geospatial/-/geospatial-3.4.2.tgz#2f497cd0f478eb77587db25e3e0131ba241d2983"
   integrity sha512-EiCwU3B4ftrUsPPHmLqJuxo37Y7Fvi9Mqpvxj6PvdvsF8EmEvMdYgiQXSNL9vSq5JbEy9xWL2ph47wvkWFoWUQ==

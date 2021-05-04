@@ -35,8 +35,11 @@
     "@loaders.gl/mvt": "^3.0.0-alpha",
     "@loaders.gl/terrain": "^3.0.0-alpha",
     "@loaders.gl/tiles": "^3.0.0-alpha",
+    "@math.gl/core": "^3.4.2",
     "@math.gl/culling": "^3.4.2",
+    "@math.gl/geospatial": "^3.3.0",
     "@math.gl/web-mercator": "^3.4.2",
+    "@luma.gl/engine": "^8.5.0-alpha.1",
     "h3-js": "^3.6.0",
     "long": "^3.2.0",
     "math.gl": "^3.4.2"
